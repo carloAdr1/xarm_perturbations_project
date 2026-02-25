@@ -24,7 +24,7 @@ The experiment consists of three scenarios:
 
 ---
 
-## 1️⃣ Start MoveIt Servo
+## Start MoveIt Servo
 
 ```bash
 cd ~/xarm_ws
