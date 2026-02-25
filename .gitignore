@@ -1,0 +1,28 @@
+# ROS2 build artifacts
+build/
+install/
+log/
+
+# Rosbags
+bags/
+rosbag2_*/
+*.db3
+*.sqlite3
+
+# Generated logs / plots
+xarm_logs/
+*.png
+*.csv
+
+# Python cache
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# VSCode
+.vscode/
+
+# System
+.DS_Store
+Thumbs.db
